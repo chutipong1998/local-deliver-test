@@ -1,0 +1,6 @@
+{
+  "projects": {
+    "default": "order-with-local",
+    "khanomwan": "testlocall"
+  }
+}
